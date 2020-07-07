@@ -1,5 +1,14 @@
 [
     {
+         "fecha": "5 de Julio del 2020",
+        "semaforo": "Rojo",
+        "casosConfirmados": 9800,
+        "casosEnInvestigacion": 2490,
+        "casosDescartados": 18500,
+        "defunciones": 570,
+        "casosRecuperados": 2800,
+        "casosDeTransmisionComunitaria": 9300
+    },
         "fecha": "6 de Julio del 2020",
         "semaforo": "Rojo",
         "casosConfirmados": 10115,
