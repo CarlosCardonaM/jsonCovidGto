@@ -12,11 +12,12 @@
     {
         "fecha": "7 de Julio del 2020",
         "semaforo": "Rojo",
-        "casosConfirmados": 10568,
-        "casosEnInvestigacion": 2521,
-        "casosDescartados": 19693,
-        "defunciones": 649,
-        "casosRecuperados": 4394,
-        "casosDeTransmisionComunitaria": 10413
+        "casosConfirmados": 11559,
+        "casosEnInvestigacion": 2152,
+        "casosDescartados": 20638,
+        "defunciones": 719,
+        "casosRecuperados": 5258,
+        "casosDeTransmisionComunitaria": 11494
     }
+    
 ]
