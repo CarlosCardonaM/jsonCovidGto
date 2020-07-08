@@ -1,33 +1,104 @@
 [
     {
-         "fecha": "5 de Julio del 2020",
-        "semaforo": "Rojo",
-        "casosConfirmados": 9800,
-        "casosEnInvestigacion": 2490,
-        "casosDescartados": 18500,
-        "defunciones": 570,
-        "casosRecuperados": 2800,
-        "casosDeTransmisionComunitaria": 9300
+         "fecha": "26 de Abril del 2020",
+        "semaforo": "Naranja",
+        "casosConfirmados":                 260,
+        "casosEnInvestigacion":             481,
+        "casosDescartados":                 3250,
+        "defunciones":                      20,
+        "casosRecuperados":                 73,
+        "casosDeTransmisionComunitaria":    130
     },
     {
-        "fecha": "6 de Julio del 2020",
-        "semaforo": "Rojo",
-        "casosConfirmados": 10115,
-        "casosEnInvestigacion": 2621,
-        "casosDescartados": 19048,
-        "defunciones": 611,
-        "casosRecuperados": 3177,
-        "casosDeTransmisionComunitaria": 9960
+         "fecha": "25 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 249,
+        "casosEnInvestigacion": 587,
+        "casosDescartados": 2605,
+        "defunciones": 9,
+        "casosRecuperados": 67,
+        "casosDeTransmisionComunitaria": 118
     },
     {
-        "fecha": "7 de Julio del 2020",
-        "semaforo": "Rojo",
-        "casosConfirmados": 11559,
-        "casosEnInvestigacion": 2152,
-        "casosDescartados": 20638,
-        "defunciones": 719,
-        "casosRecuperados": 5258,
-        "casosDeTransmisionComunitaria": 11494
+         "fecha": "24 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 240,
+        "casosEnInvestigacion": 494,
+        "casosDescartados": 2510,
+        "defunciones": 19,
+        "casosRecuperados": 59,
+        "casosDeTransmisionComunitaria": 112
+    },
+    {
+         "fecha": "23 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 236,
+        "casosEnInvestigacion": 350,
+        "casosDescartados": 2437,
+        "defunciones": 15,
+        "casosRecuperados": 55,
+        "casosDeTransmisionComunitaria": 109
+    },
+    {
+         "fecha": "22 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 215,
+        "casosEnInvestigacion": 350,
+        "casosDescartados": 2245,
+        "defunciones": 12,
+        "casosRecuperados": 50,
+        "casosDeTransmisionComunitaria": 89
+    },
+    {
+         "fecha": "19 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 164,
+        "casosEnInvestigacion": 202,
+        "casosDescartados": 1908,
+        "defunciones": 10,
+        "casosRecuperados": 41,
+        "casosDeTransmisionComunitaria": 48
+    },
+    {
+         "fecha": "18 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 143,
+        "casosEnInvestigacion": 328,
+        "casosDescartados": 1763,
+        "defunciones": 9,
+        "casosRecuperados": 40,
+        "casosDeTransmisionComunitaria": 33
+    },
+    {
+         "fecha": "17 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 128,
+        "casosEnInvestigacion": 299,
+        "casosDescartados": 1696,
+        "defunciones": 7,
+        "casosRecuperados": 38,
+        "casosDeTransmisionComunitaria": 24
+    },
+    {
+        "fecha": "16 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 113,
+        "casosEnInvestigacion": 231,
+        "casosDescartados": 1607,
+        "defunciones": 7,
+        "casosRecuperados": 36,
+        "casosDeTransmisionComunitaria": 15
+    },
+    {
+        "fecha": "15 de Abril del 2020",
+        "semaforo": "Verde",
+        "casosConfirmados": 108,
+        "casosEnInvestigacion": 195,
+        "casosDescartados": 1561,
+        "defunciones": 6,
+        "casosRecuperados": 35,
+        "casosDeTransmisionComunitaria": 12
     }
+    
     
 ]
