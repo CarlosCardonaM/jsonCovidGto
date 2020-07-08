@@ -250,7 +250,6 @@
         "casosDeTransmisionComunitaria":     3425
     },
     {
-        {
         "fecha": "09 de Junio del 2020",
         "semaforo": "Rojo",
         "casosConfirmados":                  3355,
@@ -259,7 +258,6 @@
         "defunciones":                        204,
         "casosRecuperados":                  1009,
         "casosDeTransmisionComunitaria":     3201
-    },
     },
     {
         "fecha": "07 de Junio del 2020",
