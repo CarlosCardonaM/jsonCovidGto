@@ -1,5 +1,15 @@
 [
     {
+        "fecha": "08 de Julio del 2020",
+        "semaforo": "Rojo",
+        "casosConfirmados":                 12026,
+        "casosEnInvestigacion":              2349,
+        "casosDescartados":                 21106,
+        "defunciones":                        736,
+        "casosRecuperados":                  5410,
+        "casosDeTransmisionComunitaria":    11870   
+    },
+    {
         "fecha": "07 de Julio del 2020",
         "semaforo": "Rojo",
         "casosConfirmados":                 11650,
